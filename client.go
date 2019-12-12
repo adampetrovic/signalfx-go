@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/signalfx/signalfx-go/signalflow"
+	"github.com/adampetrovic/signalfx-go/signalflow"
 )
 
 // DefaultAPIURL is the default URL for making API requests

@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/metrics_metadata"
+	"github.com/adampetrovic/signalfx-go/metrics_metadata"
 )
 
 // DimensionAPIURL is the base URL for interacting with dimensions.

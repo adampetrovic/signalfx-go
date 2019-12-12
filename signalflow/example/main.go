@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/signalfx/signalfx-go/signalflow"
+	"github.com/adampetrovic/signalfx-go/signalflow"
 )
 
 func main() {

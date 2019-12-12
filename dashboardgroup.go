@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/dashboard_group"
+	"github.com/adampetrovic/signalfx-go/dashboard_group"
 )
 
 // DashboardGroupAPIURL is the base URL for interacting with dashboard.

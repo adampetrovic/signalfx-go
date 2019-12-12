@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/signalfx/signalfx-go/signalflow/messages"
+	"github.com/adampetrovic/signalfx-go/signalflow/messages"
 )
 
 // Channel is a queue of messages that all pertain to the same computation.

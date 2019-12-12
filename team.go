@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/team"
+	"github.com/adampetrovic/signalfx-go/team"
 )
 
 // TeamAPIURL is the base URL for interacting with teams.

@@ -9,7 +9,7 @@
 
 package dashboard
 
-import "github.com/signalfx/signalfx-go/util"
+import "github.com/adampetrovic/signalfx-go/util"
 
 // Time range to show in all of the charts in the dashboard. The specifications in this object override those in each individual chart. If you don't specify values, the system defaults to using the individual time setting for each chart.
 type ChartsFiltersTime struct {

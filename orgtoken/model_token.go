@@ -10,7 +10,7 @@
 package orgtoken
 
 import (
-	"github.com/signalfx/signalfx-go/notification"
+	"github.com/adampetrovic/signalfx-go/notification"
 )
 
 // Properties of an org token, in the form of a JSON object

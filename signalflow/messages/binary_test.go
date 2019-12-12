@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/signalfx/signalfx-go/idtool"
+	"github.com/adampetrovic/signalfx-go/idtool"
 	"github.com/stretchr/testify/assert"
 )
 

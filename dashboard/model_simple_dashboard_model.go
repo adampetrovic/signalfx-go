@@ -10,7 +10,7 @@
 package dashboard
 
 import (
-	"github.com/signalfx/signalfx-go/chart"
+	"github.com/adampetrovic/signalfx-go/chart"
 )
 
 // Dashboard object that describes the properties needed for a simple dashboard that's specified only by the charts it contains

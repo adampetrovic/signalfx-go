@@ -9,7 +9,7 @@
 
 package dashboard
 
-import "github.com/signalfx/signalfx-go/util"
+import "github.com/adampetrovic/signalfx-go/util"
 
 // The specification for a filter that appears in the web UI. The filter compares the value of a dimension or custom property to a value specified in this filter. You can specify the following in the filter:<br>   * A default value   * A list of suggested values to display in the web UI   * A flag that controls user input; if set to `true`, users are limited     to the default and suggested values. <br> You can also force users to choose this filter in order to see data in the dashboard's charts.
 type ChartsWebUiFilter struct {

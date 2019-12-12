@@ -1,4 +1,4 @@
-module github.com/signalfx/signalfx-go
+module github.com/adampetrovic/signalfx-go
 
 go 1.12
 

@@ -9,7 +9,7 @@
 
 package dashboard
 
-import "github.com/signalfx/signalfx-go/util"
+import "github.com/adampetrovic/signalfx-go/util"
 
 // A single filter object to apply to the charts in the dashboard. The filter specifies a default or user-defined dimension or custom property. You can either include or exclude all the data that matches the dimension or custom property.
 type ChartsSingleFilter struct {

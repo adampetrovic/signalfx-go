@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/signalfx/signalfx-go/integration"
+	"github.com/adampetrovic/signalfx-go/integration"
 )
 
 // CreateOpsgenieIntegration creates an Opsgenie integration.

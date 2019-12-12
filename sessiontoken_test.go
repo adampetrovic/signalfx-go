@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/signalfx/signalfx-go/sessiontoken"
+	"github.com/adampetrovic/signalfx-go/sessiontoken"
 
 	"github.com/stretchr/testify/assert"
 )

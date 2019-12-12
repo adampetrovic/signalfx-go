@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/signalfx/signalfx-go/idtool"
-	"github.com/signalfx/signalfx-go/signalflow/messages"
+	"github.com/adampetrovic/signalfx-go/idtool"
+	"github.com/adampetrovic/signalfx-go/signalflow/messages"
 	"github.com/stretchr/testify/require"
 )
 
