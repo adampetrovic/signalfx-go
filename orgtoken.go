@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/orgtoken"
+	"github.com/adampetrovic/signalfx-go/orgtoken"
 )
 
 // TokenAPIURL is the base URL for interacting with org tokens.

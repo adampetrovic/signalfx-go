@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/dashboard"
+	"github.com/adampetrovic/signalfx-go/dashboard"
 )
 
 // TODO Create simple dashboard

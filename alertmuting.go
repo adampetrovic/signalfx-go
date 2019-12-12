@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/alertmuting"
+	"github.com/adampetrovic/signalfx-go/alertmuting"
 )
 
 // AlertMutingRuleAPIURL is the base URL for interacting with alert muting rules.

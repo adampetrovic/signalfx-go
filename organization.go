@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/organization"
+	"github.com/adampetrovic/signalfx-go/organization"
 )
 
 // OrganizationAPIURL is the base URL for interacting with detectors.

@@ -9,7 +9,7 @@
 
 package dashboard
 
-import "github.com/signalfx/signalfx-go/util"
+import "github.com/adampetrovic/signalfx-go/util"
 
 // Object containing a filter to apply to event overlays, in the form of a comparison expression. Each term in the expression tries to match the values of a dimension or custom property to criteria you specify. Based on the match results, you can include or exclude an event.
 type EventOverlayFilter struct {

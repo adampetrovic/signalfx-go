@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/signalfx/signalfx-go/organization"
+	"github.com/adampetrovic/signalfx-go/organization"
 )
 
 func TestGetOrganization(t *testing.T) {

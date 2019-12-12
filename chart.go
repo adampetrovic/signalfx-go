@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/chart"
+	"github.com/adampetrovic/signalfx-go/chart"
 )
 
 // ChartAPIURL is the base URL for interacting with charts.

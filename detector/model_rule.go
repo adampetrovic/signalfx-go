@@ -10,7 +10,7 @@
 package detector
 
 import (
-	"github.com/signalfx/signalfx-go/notification"
+	"github.com/adampetrovic/signalfx-go/notification"
 )
 
 // A single alert rule.

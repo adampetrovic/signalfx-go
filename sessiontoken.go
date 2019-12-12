@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/signalfx/signalfx-go/sessiontoken"
+	"github.com/adampetrovic/signalfx-go/sessiontoken"
 )
 
 // SessionTokenAPIURL is the base URL for interacting with org tokens.

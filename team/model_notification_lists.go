@@ -10,7 +10,7 @@
 package team
 
 import (
-	"github.com/signalfx/signalfx-go/notification"
+	"github.com/adampetrovic/signalfx-go/notification"
 )
 
 // Specifies the notification targets to which SignalFx sends alerts when you specify the team as an alert recipient

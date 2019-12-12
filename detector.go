@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/signalfx/signalfx-go/detector"
+	"github.com/adampetrovic/signalfx-go/detector"
 )
 
 // DetectorAPIURL is the base URL for interacting with detectors.

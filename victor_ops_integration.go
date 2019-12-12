@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/signalfx/signalfx-go/integration"
+	"github.com/adampetrovic/signalfx-go/integration"
 )
 
 // CreateVictorOpsIntegration creates an VictorOps integration.

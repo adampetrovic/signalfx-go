@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/signalfx/signalfx-go/metrics_metadata"
+	"github.com/adampetrovic/signalfx-go/metrics_metadata"
 )
 
 func TestGetDimension(t *testing.T) {

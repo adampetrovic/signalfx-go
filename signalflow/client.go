@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/signalfx/signalfx-go/signalflow/messages"
+	"github.com/adampetrovic/signalfx-go/signalflow/messages"
 )
 
 // Client for SignalFlow via websockets (SSE is not currently supported).

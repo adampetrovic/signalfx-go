@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/signalfx/signalfx-go/idtool"
-	"github.com/signalfx/signalfx-go/signalflow/messages"
+	"github.com/adampetrovic/signalfx-go/idtool"
+	"github.com/adampetrovic/signalfx-go/signalflow/messages"
 )
 
 var upgrader = websocket.Upgrader{} // use default options

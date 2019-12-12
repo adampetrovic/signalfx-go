@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/signalfx/signalfx-go/chart"
+	"github.com/adampetrovic/signalfx-go/chart"
 	"github.com/stretchr/testify/assert"
 )
 
